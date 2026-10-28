@@ -28,6 +28,7 @@ This pipeline automates the extraction, detrending, cross-matching, and transit 
 To validate the pipeline end-to-end, it was run on benchmark star **TIC 261136679 (TOI-1130)** using TESS Sector 28 SPOC photometry.
 
 | Parameter | Published Value | Pipeline Recovered Value | Accuracy |
+| :--- | :--- | :--- | :--- |
 | **Orbital Period ($P$)** | 6.2648 days | **6.2653 days** | **0.005% deviation** |
 
 | **Detection Significance** | — | **SDE = 14.8** | Exceeds 7.1 threshold by $2\times$ |

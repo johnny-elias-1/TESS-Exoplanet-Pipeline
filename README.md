@@ -29,7 +29,7 @@ To validate the pipeline end-to-end, it was run on benchmark star **TIC 26113667
 
 | Parameter | Published Value | Pipeline Recovered Value | Accuracy |
 | :--- | :--- | :--- | :--- |
-| **Orbital Period ($P$)** | 6.2648 days | **6.2675 days** | **0.005% deviation** |
+| **Orbital Period ($P$)** | 6.2648 days | **6.2675 days** | **0.04% deviation** |
 | **Detection Significance** | — | **SDE = 16.9** | Exceeds 7.1 threshold by $2\times$ |
 | **Transit Depth ($\delta$)** | $\sim 250$ ppm | **$0.99975$ (norm. flux)** | Highly consistent across 4 epochs |
 

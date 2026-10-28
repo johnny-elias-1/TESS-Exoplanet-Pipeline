@@ -44,3 +44,11 @@ To validate the pipeline end-to-end, it was run on benchmark star **TIC 26113667
 
 ```bash
 pip install lightkurve transitleastsquares astropy numpy pandas matplotlib requests openpyxl
+```
+
+## References
+Hippke, M., & Heller, R. (2019). Optimized transit detection algorithm to search for periodic transits of small planets. Astronomy & Astrophysics, 623, A39.
+
+Mandel, K., & Agol, E. (2002). Analytic Light Curves for Planetary Transit Searches. The Astrophysical Journal Letters, 580(2), L171.
+
+Huang, C. X., et al. (2020). TESS-Keck Survey. I. Masses of Three sub-Neptune Exoplanets Orbiting TOI-1130. The Astrophysical Journal Letters, 892(1), L7.
